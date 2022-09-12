@@ -1,3 +1,14 @@
+// syntax for nested for loop
+/*
+for ( init; condition; increment ) {
+
+   for ( init; condition; increment ) {
+      statement(s);
+   }
+   statement(s);
+}
+*/
+
 #include<stdio.h>
 int main()
 {
