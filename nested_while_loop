@@ -1,0 +1,10 @@
+/*
+while(condition)  
+{  
+    while(condition)  
+    {  
+         // inner loop statements.  
+    }  
+// outer loop statements.  
+}
+*/

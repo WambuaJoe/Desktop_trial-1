@@ -1,0 +1,10 @@
+/*
+do  
+{  
+   do  
+  {   
+      // inner loop statements.  
+   }while(condition);  
+// outer loop statements.  
+}while(condition);
+*/

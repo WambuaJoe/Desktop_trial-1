@@ -1,11 +1,12 @@
 // syntax for nested for loop
 /*
-for ( init; condition; increment ) {
-
-   for ( init; condition; increment ) {
-      statement(s);
-   }
-   statement(s);
+for (init; condition; update)
+{
+    for(init; condition; update )
+    {  
+           // inner loop statements.  
+    }  
+    // outer loop statements.  
 }
 */
 
