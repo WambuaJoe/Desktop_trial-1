@@ -1,0 +1,10 @@
+/*
+if statement (condition) {
+    //block of code to be executed  if the condition is true
+}
+*/
+int x = 20;
+int y = 18;
+if (x >= y) {
+    printf("y is a little, wee cunt\n");
+}
